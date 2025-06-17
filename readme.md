@@ -7,7 +7,7 @@
 
 **Neuro-Gallery** is an immersive, interactive 3D art exhibition built with **Three.js** and **Vite**. Step into a beautifully rendered virtual gallery where you can not only admire pre-existing AI-generated artworks but also create your own unique piece in real-time using the power of **DALL-E 3**.
 
-This project was developed for the **Computer Graphics (Grafică Computerizată)** course at the **Faculty of Cybernetics, Statistics, and Economic Informatics (CSIE)**, within the **Bucharest University of Economic Studies (ASE)**.
+This project was developed for the **Computer Graphics** course at the **Faculty of Cybernetics, Statistics, and Economic Informatics (CSIE)**, within the **Bucharest University of Economic Studies (ASE)**.
 
 # Features ✨
 
