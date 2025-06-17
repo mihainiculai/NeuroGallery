@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Neuro-Gallery: AI Art Exhibition</title>
+    <link rel="icon" type="image/png" href="/logo.png" />
+    <link rel="stylesheet" href="./src/style.css">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div class="loading-screen">
+        <div class="loading-container">
+            <h1 class="loading-title">Neuro-Gallery</h1>
+            <div class="loading-bar-container">
+                <div class="loading-bar"></div>
+            </div>
+            <p class="loading-text">Loading Assets...</p>
+            <div class="loading-progress">0%</div>
+        </div>
+    </div>
+
+    <!-- Painting Info Panel -->
+    <div class="painting-info-panel">
+        <div class="painting-info-content">
+            <button class="painting-info-close">&times;</button>
+            <h2 class="painting-info-title"></h2>
+            <p class="painting-info-model"></p>
+            <p class="painting-info-prompt"></p>
+        </div>
+    </div>
+
+    <!-- Entry Screen -->
+    <div class="entry-screen">
+        <div class="entry-content">
+            <h1 class="entry-title">Neuro-Gallery</h1>
+            <p class="entry-subtitle">An AI Art Exhibition</p>
+            <button class="entry-button">Enter Gallery</button>
+            <p class="entry-instructions">Use WASD to move, Mouse to look around, Space to jump, Shift to sprint</p>
+        </div>
+    </div>
+
+    <!-- FPS Counter -->
+    <div class="fps-counter">
+        <span class="fps-value">0</span>
+        <span class="fps-label">FPS</span>
+    </div>
+
+    <!-- GUI Toggle Button -->
+    <button class="gui-toggle-btn" id="guiToggleBtn" title="Toggle Controls Panel (G)">
+        <span class="gui-toggle-icon">⚙️</span>
+    </button>
+
+    <!-- Three.js Canvas -->
+    <canvas class="webgl"></canvas>
+
+    <script type="module" src="/src/main.js"></script>
+</body>
+</html>

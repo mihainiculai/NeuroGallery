@@ -1,0 +1,44 @@
+[
+    {
+        "id": "p1",
+        "title": "Heartstorm Galaxy",
+        "aiModel": "DALL-E 3",
+        "prompt": "An illustration of a human heart made of translucent glass, standing on a pedestal amidst a stormy sea. Rays of sunlight pierce the clouds, illuminating the heart, revealing a tiny universe within. The quote 'Find the universe within you' is etched in bold letters across the horizon.",
+        "imageFile": "textures/paintings/picture1.jpg"
+    },
+    {
+        "id": "p2",
+        "title": "Pixel Perch",
+        "aiModel": "DALL-E 3",
+        "prompt": "Pixel art scene of Coit Tower standing tall on Telegraph Hill, with a panoramic view of the city below and birds flying around.",
+        "imageFile": "textures/paintings/picture2.jpg"
+    },
+    {
+        "id": "p3",
+        "title": "Tempest in a Cup",
+        "aiModel": "DALL-E 3",
+        "prompt": "A 3D render of a coffee mug placed on a window sill during a stormy day. The storm outside the window is reflected in the coffee, with miniature lightning bolts and turbulent waves seen inside the mug. The room is dimly lit, adding to the dramatic atmosphere.",
+        "imageFile": "textures/paintings/picture3.jpg"
+    },
+    {
+        "id": "p4",
+        "title": "Quills of Radiance",
+        "aiModel": "Firefly Image 4",
+        "prompt": "A peacock, hyperrealistic paper quilling vivid colors",
+        "imageFile": "textures/paintings/picture4.jpg"
+    },
+    {
+        "id": "p5",
+        "title": "Harborlight Hues",
+        "aiModel": "Firefly Image 4",
+        "prompt": "A picturesque harbor scene.  Colorful buildings, various shades of pastel yellow, peach, and light orange, are nestled on hillsides sloping down to a calm, vibrant blue bay.  The water is a deep, clear blue, reflecting the buildings and sky.  Many sailboats and yachts are visible in the harbor. Lush green trees and vegetation cover the hillsides.  The scene is viewed from a high-angle, overlooking the harbor. The composition is balanced and symmetrical, with the buildings and trees arranged in a natural way around the harbor's center. The light is bright and sunny, casting clear shadows and highlighting the colors of the buildings.  A sense of tranquility and beauty pervades the image.  The water and sky have a bright, clear tone.  No people are present in the image. The overall style is photorealistic.",
+        "imageFile": "textures/paintings/picture5.jpg"
+    },
+    {
+        "id": "p6",
+        "title": "Echoes of Ice",
+        "aiModel": "Firefly Image 4", 
+        "prompt": "Serene abstract composition inspired by frozen sound waves, layers of translucent pastel colors (soft lilac, mint green, pale peach), gentle curves and ripples, smooth gradients, subtle textures like frosted glass, calming atmosphere, minimalist aesthetic, horizontal orientation, original abstract art.",
+        "imageFile": "textures/paintings/picture6.jpg"
+    }
+] 
